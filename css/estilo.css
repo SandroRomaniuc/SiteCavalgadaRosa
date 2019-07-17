@@ -1,0 +1,61 @@
+    
+    #home {
+    
+        background-image: url("../img/backgrandHome.jpg");
+       	height: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+
+        
+        color: #FFC0CB;
+    }
+
+    .caixa-texto h1 h3 p{
+    	background-color: #FFB6C1;
+    }
+
+    .texto-noticia{
+    	border: 1px solid blue;
+    	padding: 10px;
+    	margin-top: 100px;
+    	margin-bottom: 50px;
+    	text-align: center;
+    	align-items: center;
+    	background-color: black; 
+    	opacity: 0.5;
+    	border-radius: 25px;
+    }
+
+    #marca-Reg-Rolo{
+    	background: #F5F5DC;
+    	text-align: center;
+
+
+    }
+
+    #barranav{
+        background: #F8E0EC;
+    }
+
+    .caixa{
+        padding: 60px 0;
+        border-bottom: 1px solid #e5e5e5;
+    }
+
+    #caixa-nav{
+
+    }
+
+    #caixa-nave a{
+    width: 100px;
+    color: #fff;
+    background-color: #FF69B4;
+	margin-right: 5px;
+	border-radius: 0 25px;
+	text-align: center;
+	}
+
+
+
+    footer p a{ 
+        margin:5px 15px;

@@ -1,14 +1,18 @@
     
     #home {
-    
         background-image: url("../img/backgrandHome.jpg");
        	height: 100%;
         background-repeat: no-repeat;
         background-position: center;
-
-        
         color: #FFC0CB;
     }
+
+    #galeria{
+      background-image: url("../img/backgrandHome.jpg");
+      height: 100%;
+      background-repeat: repeat-x ;
+      color: #FFC0CB;
+     }
 
     .caixa-texto h1 h3 p{
     	background-color: #FFB6C1;
@@ -26,8 +30,8 @@
     	border-radius: 25px;
     }
 
-    #marca-Reg-Rolo{
-    	background: #F5F5DC;
+    .marca-Reg-Marknoalvo{
+    	background:#FFC0CB;
     	text-align: center;
 
 
@@ -50,15 +54,21 @@
     width: 100px;
     color: #fff;
     background-color: #FF69B4;
-	margin-right: 5px;
-	border-radius: 0 25px;
-	text-align: center;
-	}
+    margin-right: 5px;
+    border-radius: 0 25px;
+    text-align: center;
+  }
+  
+  footer{
+     background-color: #FF69B4;
+     text-align: center;
+  }
 
 
-
+    
     footer p a{ 
         margin:5px 15px;
+       
     }
 
 
